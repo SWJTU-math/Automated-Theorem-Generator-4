@@ -38,7 +38,7 @@ It can automatically generate theorems from logical literals or formulas provide
 
   
 
-- **Δ4 Version**: The **Automated Theorem Generator Δ4** is a tool based on the _Triangle Standard Contradiction Separation_, which differs from the reasoning of Δ1, Δ2 and Δ3.
+- **Δ4 Version**: The **Automated Theorem Generator Δ4** is a tool based on the _Triangle Standard Contradiction Separation_, deduction by triangle standard contradiction based on standard extension, which differs from the reasoning of Δ1, Δ2 and Δ3.
 
   
 
